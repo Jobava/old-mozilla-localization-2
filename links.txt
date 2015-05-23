@@ -1,0 +1,10 @@
+Romanian localization team: https://wiki.mozilla.org/L10n:Teams:ro
+Romanian pootle server: http://mozilla.locamotion.org/ro/
+Mozilla's pootle for Romanian localization: https://localize.mozilla.org/ro/
+
+Web dashboard: https://l10n.mozilla-community.org/webdashboard/?locale=ro
+Transvision: https://transvision.mozfr.org
+Microsoft localization: https://www.microsoft.com/Language/en-US/Search.aspx?langID=ro-ro
+i18n.ro/Glosar
+
+Staging: https://www-dev.allizom.org/ro/

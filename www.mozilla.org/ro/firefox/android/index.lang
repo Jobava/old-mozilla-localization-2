@@ -4,12 +4,12 @@
 
 # Used in HTML as page title
 ;Firefox for Android — Mobile Web browser — More ways to customize and protect your privacy
-Firefox pentru Android — Navigator web mobil — Mai multe modalități de personalizare și protejare a confidențialității
+Firefox pentru Android — Navigator web mobil — Mai multe feluri de personalizare și protejare a confidențialității
 
 
 # Used in HTML as page description
 ;Only Firefox for Android offers so many ways to make your mobile browsing experience truly your own
-Numai Firefox pentru Android oferă atât de multe modalități de a-ți creea experiența de navigare cu adevărat unică
+Doar Firefox pentru Android oferă atâtea feluri de personalizare a experienței de navigare
 
 
 # alt text for image (hard-coded image needs to be fixed)
@@ -34,7 +34,7 @@ Confidențialitatea în care ai încredere.
 
 
 ;Our most customizable Firefox for Android yet.
-Cel mai personalizabil Firefox pentru Android al nostru de până acum.
+Cel mai personalizabil Firefox pentru Android de până acum.
 
 
 ;Download on Google Play
@@ -47,7 +47,7 @@ Unic pentru tine
 
 # Line break below is for visual formatting only. Remove if it's not useful for your locale
 ;Only Firefox for Android offers this many ways to make<br> your mobile browsing experience truly your own.
-Numai Firefox pentru Android oferă atât de multe modalități<br> de a-ți crea experiența de navigare cu adevărat unică.
+Numai Firefox pentru Android oferă atâtea feluri<br> de personalizare a experienței de navigare..
 
 
 ;Smarter sharing for all
@@ -55,7 +55,7 @@ Partajare inteligentă pentru toți
 
 
 ;The most adaptive way to share anything, Quick Share remembers your most recently used apps to help you get the word out just the way you want.
-Cea mai adaptivă modalitate de a partaja orice, Partajarea rapidă ține minte aplicațiile tale folosite recent pentru a te ajuta să dai de veste după cum dorești.
+Cea mai adaptivă modalitate de partajare pentru orice, Partajarea Rapidă ține minte aplicațiile folosite recent pentru a te ajuta să dai de veste și altora.
 
 
 ;See how it works
@@ -71,7 +71,7 @@ Personalizează panourile principale cu orice conținut Web pe care îl dorești
 
 
 ;A touch more personal
-O atingere mai personală
+Un pic mai personal
 
 
 ;Display your Home panels in any order you like or add, hide and delete them as you see fit to keep your favorites one touch away.
@@ -87,11 +87,11 @@ Caută așa cum îți place
 
 
 ;Add any search engine and make it your default.
-Adaugă orice motor de căutare și setează-l drept implicit.
+Adaugă orice motor de căutare și setează-l ca implicit.
 
 
 ;Or change it any time to the one that best matches your search and privacy needs.
-Sau schimbă-l oricând cu unul care se potrivește cel mai bune cu nevoile tale de căutare și confidențialitate.
+Sau schimbă-l oricând cu unul care se potrivește mai bune nevoilor tale de căutare și confidențialitate.
 
 
 ;Change your language
@@ -99,19 +99,19 @@ Schimbă limba
 
 
 ;Read and save articles easily
-Read and save articles easily
+Citește și salvează articolele ușor
 
 
 ;Enjoy a more pleasant reading experience with Reader View and Reading List.
-Enjoy a more pleasant reading experience with Reader View and Reading List.
+Bucurați-vă de o mai plăcută experiență cu opțiunile Reader View și Reading List
 
 
 ;Access your saved articles even when you’re not online.
-Access your saved articles even when you’re not online.
+Accesați articolele salvate pentru momentele în care nu sunteți online.
 
 
 ;Change your browser language quickly and easily, without having to change the settings for your entire device or even restart your browser.
-Schimbă limba navigatorului rapid și ușor fără a fi nevoie de a schimba setările pentru întregul dispozitiv sau chiar să repornești navigatorul.
+Schimbă limba navigatorului rapid și ușor fără a schimba setările pentru dispozitiv sau chiar fără repornirea navigatorului.
 
 
 ;Take it to the big screen
@@ -119,7 +119,7 @@ Du experiența pe marele ecran
 
 
 ;Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
-Trimite videoclipuri și conținut Web de pe smartphone sau tabletă pe orice TV echipat cu capabilități de transmisie suportate.
+Trimite videoclipuri și conținut Web de pe smartphone sau tabletă pe orice TV capabil de transmisie video prin rețea.
 
 
 ;Keep your private info private
@@ -151,11 +151,11 @@ Navigare fără urme
 
 
 ;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
-Când este activat, Firefox pentru Android nu va accepta cookie-uri, reține parole sau înregistra vreun sait pe care l-ai vizitat.
+Când este activat, Firefox pentru Android nu va accepta cookie-uri, nu va reține parole și nu va înregistra vreun sait pe care l-ai vizitat.
 
 
 ;Learn how to open a private window
-Learn how to open a private window
+Află cum să deschizi o fereasrtă privată
 
 
 ;See how Private Browsing works
@@ -167,7 +167,7 @@ Curăță istoricul
 
 
 ;Delete your browsing history, passwords and more in a single tap.
-Șterge istoricul de navigare, parolele și multe altele dintr-o singură atingere.
+Șterge istoricul de navigare, parolele și multe altele printr-o singură atingere.
 
 
 ;Choose the private data you want to remove whenever you need to do so.
@@ -179,23 +179,23 @@ Află cum să cureți istoricul
 
 
 ;Guest browsing
-Navigare în mod vizitator
+Navigare în mod „vizitator”
 
 
 ;Share your browser with friends and family without worrying that you’ll see each other’s online activity.
-Împarte navigatorul cu prietenii și familia fără să îți faci griji că se va vedea activitatea online a celorlalți.
+Împarte navigatorul cu prietenii și familia fără să vă îngrijorați că veți vedea ce-a făcut fiecare online.
 
 
 ;Learn how to share your browser
-Learn how to share your browser
+Află cum să împarți cu alții navigatorul
 
 
 ;See how Guest Browsing works
-Vezi cum funcționează Navigarea în mod vizitator
+Vezi cum funcționează Navigarea în mod „vizitator”
 
 
 ;Don’t leave home without being in Sync
-Nu pleca de-acasă fără să sincronizezi datele
+Nu pleca de acasă fără să sincronizezi datele
 
 
 ;Bring your passwords, bookmarks, open tabs and more everywhere you go.
@@ -203,7 +203,7 @@ Ia-ți parolele, semnele de carte, filele deschise și altele oriunde mergi.
 
 
 ;Use Sync on your smartphone or tablet to access whatever you need from your desktop &mdash; and vice versa &mdash; without having to remember URLs.
-Folosește Sincronizare pe smartphone sau tabletă pentru a accesa orice ai nevoie de pe calculator &mdash; și viceversa &mdash; fără a fi nevoie să reții URL-urile.
+Folosește Sync pe smartphone sau tabletă pentru a accesa orice ai nevoie de pe calculator &mdash; și viceversa &mdash; fără a fi nevoie să reții URL-urile.
 
 
 ;Learn more about Sync
@@ -219,6 +219,6 @@ Dispozitive suportate
 
 
 ;Release notes
-Note privind lansarea
+Note privind ediția
 
 
