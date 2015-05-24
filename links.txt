@@ -1,4 +1,5 @@
 Romanian localization team: https://wiki.mozilla.org/L10n:Teams:ro
+Mozilla Romania Google group: http://groups.google.com/group/mozilla-ro
 Romanian pootle server: http://mozilla.locamotion.org/ro/
 Mozilla's pootle for Romanian localization: https://localize.mozilla.org/ro/
 
