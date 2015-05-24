@@ -16,7 +16,7 @@ www.mozilla.org
 * legal/index.lang
 * main.lang
 mozorg/about/history-details.lang
-mozorg/about/history.lang
+* mozorg/about/history.lang
 mozorg/about/manifesto.lang
 * mozorg/plugincheck.lang
 * privacy/index.lang
@@ -30,6 +30,15 @@ about:healthreport
 --------------------
 * fhr.lang
 
+firefoxos-marketing
+--------------------
+screenshots.lang
+
 firefox-tiles
 --------------
 * tiles.lang
+
+mozillians
+--------------
+messages.po
+
