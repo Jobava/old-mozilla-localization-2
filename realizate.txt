@@ -15,9 +15,9 @@ www.mozilla.org
 * firefox/whatsnew_38.lang
 * legal/index.lang
 * main.lang
-mozorg/about/history-details.lang
+* mozorg/about/history-details.lang
 * mozorg/about/history.lang
-mozorg/about/manifesto.lang
+* mozorg/about/manifesto.lang
 * mozorg/plugincheck.lang
 * privacy/index.lang
 * thunderbird/start/release.lang
