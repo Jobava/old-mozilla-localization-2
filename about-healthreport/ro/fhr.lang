@@ -363,7 +363,7 @@ Numărul în milisecunde a duratei, în timpul pornirii aplicației, pentru înc
 
 
 ;How long in milliseconds it took during startup for the application to restore tabs from the previous session
-Numărul în milisecunde a duratei, în timpul pornirii aplicației, pentru restaurare a filele din sesiunea precedentă
+Numărul în milisecunde a duratei, în timpul pornirii aplicației, pentru restaurare a filelor din sesiunea precedentă
 
 
 ;The number of times the application was run and not cleanly shut down.
