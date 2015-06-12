@@ -14,7 +14,7 @@ Mențineți Firefox sănătos cu un control rapid
 
 # Used as page description in HTML meta tag
 ;Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
-Folosiți Flash? QuickTime? Java? Dacă folosiți acestea pentru a face experiența cu Firefox mai minunată, verificați suplimentele! S-ar putea să aibă nevoie de o actualizare.
+Folosiți Flash? QuickTime? Java? Dacă folosiți acestea pentru o experiență mai bună, verificați suplimentele! S-ar putea să aibă nevoie de o actualizare.
 
 
 # Old page <title> tag
@@ -29,7 +29,7 @@ Actualizați acum
 
 # This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
 ;Research
-Verificați
+Verificare
 
 
 # This string is used together with the plugin's name to create a query on Google when using the Research button.
@@ -218,19 +218,19 @@ Deschideți <span class="menu">meniul</span>.
 
 
 ;Choose Add-ons.
-Alegeți Suplimente.
+Alegeți „suplimente”.
 
 
 ;Click the plugins tab.
-Clic pe fila Module.
+Clic pe fila „suplimente”.
 
 
 ;Click on the drop down next to the plugin you wish to disable.
-Clic pe meniul derulant de lângă modulul pe care doriți să îl dezactivați.
+Clic pe meniul derulant de lângă suplimentul pe care doriți să îl dezactivați.
 
 
 ;Click on a plugin in the list.
-Clic pe un modul din listă.
+Clic pe un supliment din listă.
 
 
 ;Select "Never Activate" from the available choices.
@@ -238,7 +238,7 @@ Selectați „Nu activa niciodată” din lista de opțiuni disponibile.
 
 
 ;Click the Disable button.
-Clic pe butonul Dezactivează.
+Clic pe butonul „Dezactivează”.
 
 
 ;Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on YouTube.
@@ -246,7 +246,7 @@ Atenție: dezactivarea unui supliment înseamnă că nu-i mai permiteți să fun
 
 
 ;Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on some streaming video websites.
-Atenție: dezactivarea unui supliment înseamnă că nu-i mai permiteți să funcționeze. De exemplu, dacă dezactivați Flash, nu veți mai putea viziona videoclipuri pe unele saituri care transmit conținut video.
+Atenție: dezactivarea unui supliment înseamnă că nu-i mai permiteți să funcționeze. De exemplu, dacă dezactivați Flash nu veți mai putea viziona videoclipuri pe unele saituri care transmit conținut video.
 
 
 ;Mozilla Support
