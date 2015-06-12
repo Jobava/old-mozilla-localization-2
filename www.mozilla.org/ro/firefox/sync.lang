@@ -2,7 +2,7 @@
 
 
 ;Keep your Firefox in sync
-Păstrați Firefox sincronizat
+Mențineți Firefox sincronizat
 
 
 ;Ready, Set, Sync
@@ -14,7 +14,7 @@ V-ați înregistrat! Puteți accesa Firefox de oriunde și oricând.
 
 
 ;Take your Web with you
-Luați Internetul cu dumneavoastră
+Luați internetul cu dumneavoastră
 
 
 ;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
@@ -30,7 +30,7 @@ Se pare că folosiți o variantă mai veche de Firefox.
 
 
 ;The new version of Sync only works with the latest version of Firefox
-Noul Sync funcționează doar cu ultima versiune de Firefox
+Noua sincronizare funcționează doar cu ultima versiune de Firefox
 
 
 ;Soon you’ll be able to use Sync on your iOS device
@@ -38,12 +38,12 @@ Noul Sync funcționează doar cu ultima versiune de Firefox
 
 
 ;Sync is just one of the great features you’ll only get with Firefox. Discover them all!
-Sync e una din funcționalitățile fantastice pe care le veți găsi în Firefox. Descoperiți-le pe toate!
+Sincronizare e una din funcționalitățile fantastice pe care le veți găsi în Firefox. Descoperiți-le pe toate!
 
 
 # This string is displayed when you visit the page with a different browser (i.e. not Firefox)
 ;Sync is just one of the great features you’ll only get with Firefox.
-Sync e una din funcționalitățile de excepție din Firefox
+Sincronizare e una din funcționalitățile de excepție din Firefox
 
 
 ;Download Firefox for Android
@@ -51,7 +51,7 @@ Descărcați Firefox pentru Android
 
 
 ;Get started with Sync
-Începeți cu Sync
+Începeți cu Sincronizare
 
 
 ;Update your Firefox
@@ -63,18 +63,18 @@ Descărcați Firefox
 
 
 ;Get started with Sync in four easy steps:
-Porniți la drum cu Sync în patru pași:
+Porniți la drum cu Sincronizare în patru pași:
 
 
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Deschide <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">meniul</a> în partea din dreapta, sus din Firefox și alegeți “<strong>Autentificare (Sign in) în Sync.</strong>”
+Deschideți <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">meniul</a> în partea din dreapta, sus din Firefox și alegeți “<strong>Autentificare în Sincronizare.</strong>”
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
-Dați clic pe “<strong>Începeți (Get started)</strong>” în fila care se deschide
+Dați clic pe “<strong>Începeți</strong>” în fila care se deschide
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
@@ -84,7 +84,7 @@ Introduceți adresa de email și parola pentru a „<strong>Crea un cont Firefox
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
-Dați clic pe “<strong>Înainte</strong>” pentru a primi un email de verificare.
+Dați clic pe „<strong>Înainte</strong>” pentru a primi un email de verificare.
 
 
 ;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
@@ -96,28 +96,28 @@ Instrucțiuni mai detaliate.
 
 
 ;Using an older version of Sync?
-Utilizați o versiune mai veche de Sync?
+Utilizați o versiune mai veche de Sincronizare?
 
 
 # This string is displayed on Android devices
 ;How to set up Sync in five easy steps:
-Porniți la drum cu Sync în cinci pași:
+Porniți la drum cu Sincronizare în cinci pași:
 
 
 # <strong> tags below used for font color formatting.
 # This string is displayed on Android devices
 ;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
-Atingeți butonul <strong>Meniu (Menu)</strong> (amplasat în partea de jos sau în partea de sus și dreapta a ecranului navigatorului).
+Atingeți butonul <strong>Meniu</strong> (amplasat în partea de jos sau în partea de sus și dreapta a ecranului navigatorului).
 
 
 # This string is displayed on Android devices
 ;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
-Alegeți <strong>Setări (Settings)</strong> (s-ar putea să trebuiască să apăsați pe <strong>Mai multe (More)</strong> mai întâi).
+Alegeți <strong>Setări</strong> (s-ar putea să fie nevoie să apăsați <strong>Mai multe (More)</strong> mai întâi).
 
 
 # This string is displayed on Android devices
 ;Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
-Apăsați pe <strong>Sync</strong> apoi pe <strong>Pornire (Get Started)</strong>.
+Apăsați pe <strong>Sincronizare</strong> apoi pe <strong>Pornire</strong>.
 
 
 # This string is displayed on Android devices
@@ -132,19 +132,19 @@ Completați formularul și apăsați pe opțiunea <strong>Înainte (Next)</stron
 
 # This string is displayed on Android devices
 ;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
-După ce vă verificați mesajele email dați clic pe linkul de verificare din mesaj. Veți fi gata să porniți! Nu uitați să vă conectați toate celelalte dispozitive pentru a beneficia la maxim de Sync.
+După ce vă verificați mesajele email dați clic pe linkul de verificare din mesaj. Veți fi gata să porniți! Nu uitați să vă conectați toate celelalte dispozitive pentru a beneficia la maxim de Sincronizare.
 
 
 ;Sync a little. Sync a lot.
-Sincronizați puțin. Sincronizați mai mult.
+Sincronizați mai puțin. Sincronizați mai mult.
 
 
 ;You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
-Puteți alege funcționalitățile din Firefox pe care doriți să le sincronizați și locul unde să le sincronizați. Luați filele deschise pe drumul către serviciu. Accesați semnele de carte la muncă. Orice, oricând, oriunde.
+Puteți alege funcționalitățile din Firefox pe care doriți să le sincronizați și locația în care să le sincronizați. Luați filele deschise pe drumul către serviciu. Accesați semnele de carte la muncă. Orice, oricând, oriunde.
 
 
 ;Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
-Vreți să accesați filele deschise de pe calculator pe alt dispozitiv? Să accesați istoria de navigare din mișcare? Să păstrați parolele cu dumneavoastra? Acum puteți.
+Vreți să accesați filele deschise de pe calculator pe alt dispozitiv? Să accesați istoria de navigare din mișcare? Să țineți parolele cu dumneavoastra? Acum puteți.
 
 
 ;Here’s what you can sync:
@@ -188,7 +188,7 @@ Pe drum
 
 
 ;Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
-Țineți pasul cu saiturile favorite sau terminați de citit articolul pe care l-ați început acasă, oriunde ați merge. Cu Sync, totul e mult mai ușor.
+Țineți pasul cu saiturile favorite sau terminați de citit articolul pe care l-ați început acasă, oriunde ați merge. Cu Sincronizare, totul e mult mai ușor.
 
 
 ;Add Firefox to your smartphone or tablet
@@ -196,7 +196,7 @@ Adăugați Firefox telefonului sau tabletei
 
 
 ;To get the full Sync experience, get Firefox for iOS or Android and connect all your devices — everywhere and anywhere you use Firefox.
-Pentru a beneficia de experiența completă Sync instalați Firefox pentru iOS sau Android pe toate dispozitivele — peste tot și oriunde folosiți Firefox.
+Pentru a beneficia de experiența completă Sincronizare instalați Firefox pentru iOS sau Android pe toate dispozitivele — peste tot și oriunde folosiți Firefox.
 
 
 ;Add Firefox
@@ -204,7 +204,7 @@ Adăugați Firefox
 
 
 ;Have an <b>Android smartphone</b> or <b>tablet</b>?
-Aveți un <b>telefon</b> sau <b>tabletă Android</b>?
+Aveți un <b>telefon</b> sau <b>tabletă cu Android</b>?
 
 
 ;DOWNLOAD FIREFOX FOR ANDROID
@@ -212,6 +212,6 @@ DESCĂRCAȚI FIREFOX PENTRU ANDROID
 
 
 ;To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
-Pentru a beneficia de întreaga experiență Sync luați Web-ul cu dumneavoastră oriunde folosiți Firefox. Conectați telefonul, tableta, calculatorul și laptopul.
+Pentru a beneficia de întreaga experiență Sincronizare luați Web-ul cu dumneavoastră oriunde folosiți Firefox. Conectați telefonul, tableta, calculatorul și laptopul.
 
 
