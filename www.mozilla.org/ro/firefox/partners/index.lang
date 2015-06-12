@@ -102,7 +102,7 @@ Dezlănțuiți viitorul
 
 # Page description (meta tag)
 ;We’re enabling operators, phone manufacturers and developers to manage, customize and improve relationships with their customers directly through our mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
-Le oferim operatorilor, producătorilor de telefoane și dezvoltatorilor posibilitatea de a gestiona, a personaliza și a îmbunătății relațiile cu clienții prin produsele noastre mobile: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> și <a %(url3)s>Firefox pentru Android</a>.
+Le oferim operatorilor, producătorilor de telefoane și dezvoltatorilor posibilitatea de a gestiona, a personaliza și a îmbunătăți relațiile cu clienții prin produsele noastre mobile: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> și <a %(url3)s>Firefox pentru Android</a>.
 
 
 ;Firefox OS has brought openness, accessibility and opportunity to 29 countries with more than 50 launches and 14 global operators — and that momentum continues in 2015.
@@ -189,7 +189,7 @@ Explorați modele de business alternativ
 
 # List item
 ;Stimulate increased Internet use
-Stimulați o creștere a utilizării Internetului
+Stimulați o creștere a utilizării internetului
 
 
 # List item
@@ -297,7 +297,7 @@ Deveniți un dezvoltator Marketplace
 
 # List item
 ;Apps that customers can discover easily and access across multiple platforms, devices and operating systems
-Aplicatii pe care clienții le pot descoperi ușor și accesa pe mai multe platforme, dispozitive și sisteme de operare
+Aplicații pe care clienții le pot descoperi ușor și accesa pe mai multe platforme, dispozitive și sisteme de operare
 
 
 # List item
@@ -362,7 +362,7 @@ Creați valoare
 
 
 ;Step into the Firefox ecosystem to take advantage of opportunities like Firefox Marketplace and WebRTC. You can display new Web content or integrate into your customer’s living room to create new, platform-independent offerings.
-Pășiți în ecosistemul Firefox pentru a profita de oportunități precum Firefox Marketplace și WebRTC. Puteți afișa conținut web nou sau vă puteți integra în sufrageria clienților dumneavoastră pentru a le oferi produse noi, independente de platformă.
+Pășiți în ecosistemul Firefox pentru a profita de oportunități precum Firefox Marketplace și WebRTC. Puteți afișa conținut web nou sau vă puteți integra în sufrageria clienților dumneavoastră pentru a le oferi produse noi, indiferent de platformă.
 
 
 ;Learn more about partner opportunities.
@@ -375,7 +375,7 @@ Ieșiți în <br>evidență
 
 
 ;Take advantage of our differentiated offering, strong brand and customer love for the Firefox ecosystem to drive sales and data usage.
-Profitați de oferta noastră diferențiată, brandul puternic și dragostea clienților pentru ecosistemul Firefox pentru a crește vânzările și folosirea de date.
+Profitați de oferta noastră diferențiată, brandul puternic și dragostea clienților pentru ecosistemul Firefox pentru a crește vânzările și utilizarea de date.
 
 
 # List Title
@@ -389,7 +389,7 @@ Personalizați experiența
 
 
 ;Add your brand and content to increase customer touchpoints, improve retention and drive future sales.
-Adăugați-vă brandul și conținutul pentru a vă crește punctele de contact cu clienții, pentru a spori loialitatea clienților și pentru a crește vânzările.
+Adăugați brandul și conținutul dumneavoastră pentru a vă crește punctele de contact cu clienții, pentru a spori loialitatea clienților și pentru a crește vânzările.
 
 
 # List item sub-title
@@ -461,7 +461,7 @@ Fox Den și alte <br>evenimente MWC
 
 # Line break below is presentational only
 ;Firefox tweets from <br>MWC in Barcelona
-Tweeturi Firefox de la <br>MWC în Barcelona
+Firefox ciripește de la <br>MWC în Barcelona
 
 
 ;View the version notes
@@ -479,17 +479,17 @@ Descriere
 
 # Form error message
 ;Please enter your first name.
-Vă rugăm să introduceți prenumele dumneavoastră.
+Scrieți prenumele dumneavoastră.
 
 
 # Form error message
 ;Please enter your last name.
-Vă rugăm să introduceți numele dumneavoastră.
+Scrieți numele dumneavoastră.
 
 
 # Form error message
 ;Please enter your company name.
-Vă rugăm să introduceți numele companiei dumneavoastră.
+Scrieți numele companiei dumneavoastră.
 
 
 # Form error message
@@ -504,7 +504,7 @@ Vă rugăm să introduceți o adresă de email validă
 
 # Form, Physical address field (street, city...)
 ;Address
-Adresa
+Adresă
 
 
 # Form field
@@ -563,7 +563,7 @@ Descarcă PDF
 
 # Old version of the page (do not remove)
 ;Partner with us
-Fiți partenerul nostru
+Deveniți partenerul nostru
 
 
 # Old version of the page (do not remove)
@@ -583,7 +583,7 @@ Realizat din Web
 
 # Old version of the page (do not remove)
 ;Built entirely using HTML5 and other open Web standards, Firefox OS is free from the rules and restrictions of existing proprietary platforms.
-Construit în întregime folosind HTML5 și alte standarde Web deschise, Firefox OS nu este constrâns regulile și restricțiile impuse de platformele proprietărești existente.
+Construit în întregime folosind HTML5 și alte standarde Web deschise, Firefox OS nu este constrâns de regulile și restricțiile impuse de platformele proprietărești existente.
 
 
 # Old version of the page (do not remove)
@@ -603,7 +603,7 @@ Condiții de concurență echitabilă în comparație cu alte sisteme de operare
 
 # Old version of the page (do not remove)
 ;Greater participation in the value chain
-O mai mare participare în rețeaua de valori
+O mai mare participare în lanțul de valoare
 
 
 # Old version of the page (do not remove)
@@ -623,7 +623,7 @@ Contactați echipa noastră de dezvoltare a afacerilor pentru a intra în rându
 
 # Old version of the page (do not remove)
 ;Discover a new way to participate in an ecosystem that features the world’s most popular apps as well as more relevant, targeted content to suit customers’ local needs. See how that can help <a %(url1)s>operators and manufacturers</a> as well as <a %(url2)s>developers</a>.
-Descoperiți o nouă modalitate de a participa într-un ecosistem care conține cele mai populare aplicații din lume, pe lângă conținut relevant și țintit pentru a satisface nevoile locale ale consumatorilor. Vedeți cum puteți ajuta <a %(url1)s>operatorii și producătorii</a>, precum și <a %(url2)s>dezvoltatorii</a>.
+Descoperiți o nouă modalitate de a participa într-un ecosistem care conține cele mai populare aplicații din lume, pe lângă conținutul relevant și țintit pentru a satisface nevoile locale ale consumatorilor. Vedeți cum puteți ajuta <a %(url1)s>operatorii și producătorii</a>, precum și <a %(url2)s>dezvoltatorii</a>.
 
 
 # Old version of the page (do not remove)
@@ -643,7 +643,7 @@ Experiența noastră
 
 # Old version of the page (do not remove)
 ;Our proven track record of providing excellent user experiences and serving content to huge global audiences runs through everything we do. Our directory of add-ons serves content to hundreds of millions of users worldwide.
-Istoricul nostru dovedește implicarea noastră în asigurarea unor experiențe excelente pentru utilizatori și pentru servirea de conținut unei audiențe globale. Portofoliul nostru de add-on-uri livrează conținut pentru sute de milioane de utilizatori din lumea întreagă.
+Istoricul nostru dovedește implicarea noastră în asigurarea unor experiențe excelente pentru utilizatori și pentru servirea de conținut unei audiențe globale. Portofoliul nostru de suplimente livrează conținut pentru sute de milioane de utilizatori din lumea întreagă.
 
 
 # Old version of the page (do not remove)
