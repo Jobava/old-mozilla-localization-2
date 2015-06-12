@@ -264,7 +264,7 @@ Descărcați
 
 # MegaBytes abbreviation
 ;MB
-MO
+MB {ok}
 
 
 ;MegaBytes
@@ -301,7 +301,7 @@ Personalizare cu suplimente
 
 
 ;Learn More
-Aflați mai Multe
+Aflați mai multe
 
 
 # Same as previous above but with no capitalization on More
@@ -495,7 +495,7 @@ Firefox {ok}
 
 # Top menu item on firefox/update page
 ;Firefox for Organizations
-Firefox pentru Organizații
+Firefox pentru organizații
 
 
 # Top menu item on firefox/update page
