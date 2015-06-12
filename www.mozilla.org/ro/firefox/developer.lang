@@ -4,12 +4,12 @@
 
 # Used as page description (HTML meta tag)
 ;Built for those who build the Web. Introducing the only browser made for developers.
-Făcut pentru cei ce construiesc web-ul. Vă prezentăm singurul navigator făcut pentru dezvoltatori.
+Făcut pentru cei ce construiesc Web-ul. Vă prezentăm singurul navigator făcut pentru dezvoltatori.
 
 
 # Used as page description from June 2nd (HTML meta tag)
 ;Built for those who build the Web. The only browser made for developers like you.
-Făcut pentru cei ce construiesc web-ul. Singurul navigator făcut pentru dezvoltatori ca tine.
+Făcut pentru cei ce construiesc Web-ul. Singurul navigator făcut pentru dezvoltatori ca tine.
 
 
 ;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox today!
@@ -17,7 +17,7 @@ Descărcați Mozilla Firefox, un navigator gratuit. Firefox este creat de o orga
 
 
 ;Built for those who build the Web
-Construit pentru cei care au construit web-ul
+Construit pentru cei care au construit Web-ul
 
 
 ;Introducing the only browser made for developers like you.
@@ -30,7 +30,7 @@ Singurul navigator făcut pentru dezvoltatori ca tine.
 
 # This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 ;Design, build and debug the Web without ever leaving your browser with the new Firefox Developer Edition!
-Proiectați, construiți și depanați web-ul fără a părăsi navigatorul cu noua ediție Firefox Developer Edition!
+Proiectați, construiți și depanați Web-ul fără a părăsi navigatorul cu noua ediție Firefox Developer Edition!
 
 
 ;Firefox Developer Edition automatically sends feedback to Mozilla.
@@ -58,7 +58,7 @@ Codare perfectă la nivel de pixel
 
 
 ;Target screen sizes with the Responsive Design View and tweak your CSS on the fly with the built-in Style Editor for pixel-perfect coding.
-Țintiți dimensiuni ale ecranului cu Responsive Design View și ajustați CSS în mod dinamic cu ajutorul Editorului de stiluri incorporat, pentru codare perfectă la nivel de pixel.
+Țintiți dimensiuni ale ecranului cu Responsive Design View și ajustați CSS în mod dinamic cu ajutorul editorului de stiluri incorporat, pentru codare perfectă la nivel de pixel.
 
 
 ;All your favorite dev tools and more
@@ -66,7 +66,7 @@ Uneltele dumneavoastră de dezvoltare favorite și altele
 
 
 ;Firefox Developer Edition brings your core dev tools together with some powerful new ones that will extend your ability to work across multiple platforms from one place. It’s everything you’re used to, only better. And only from Firefox.
-Firefox Developer Edition vă aduce laolaltă uneltele de bază de dezvoltare împreună cu altele noi care permit să lucrați pe mai multe platforme dintr-un singur loc. Este modul de lucru cu care v-ați obișnuit, doar că mai bun. Toate astea din Firefox.
+Firefox Developer Edition vă aduce laolaltă uneltele de bază de dezvoltare împreună cu altele noi care permit să lucrați pe mai multe platforme dintr-un singur loc. Este modul de lucru cu care v-ați obișnuit, doar că mai bun. Toate acestea din Firefox.
 
 
 ;Screenshot
@@ -86,7 +86,7 @@ Aflați mai multe despre WebVR
 
 
 ;Performance Tools
-Unelte de Performanță
+Unelte de performanță
 
 
 ;Examine your web content’s frame rate, memory consumption and JS profile in a consolidated timeline view to help easily identify and troubleshoot performance bottlenecks.
@@ -102,7 +102,7 @@ WebIDE
 
 
 ;Develop, deploy and debug Firefox OS apps directly in your browser, or on a Firefox OS device, with this tool that replaces App Manager.
-Dezvoltați, instalați și depanați aplicații Firefox OS direct din navigator sau orice alt dispozitiv cu Firefox OS folosind această unealtă care înlocuiește Managerul de Aplicații.
+Dezvoltați, instalați și depanați aplicații Firefox OS direct din navigator sau orice alt dispozitiv cu Firefox OS folosind această unealtă care înlocuiește managerul de aplicații.
 
 
 ;Learn more about WebIDE
@@ -110,7 +110,7 @@ Aflați mai multe despre WebIDE
 
 
 ;Responsive Design View
-Vederea Responsive Design
+Vederea „Responsive Design”
 
 
 ;See how your Website or Web app will look on different screen sizes without changing the size of your browser window.
@@ -118,7 +118,7 @@ Vedeți cum saitul sau aplicația web vor arăta pe diferite dimensiuni de ecran
 
 
 ;Learn more about Responsive Design View
-Aflați mai multe despre Vederea Responsive Design
+Aflați mai multe despre vederea „Responsive Design”
 
 
 ;Valence
@@ -146,7 +146,7 @@ Aflați mai multe despre Editorul Web Audio
 
 
 ;Page Inspector
-Inspectorul de Pagini
+Inspectorul de pagini
 
 
 ;Examine the HTML and CSS of any Web page and easily modify the structure and layout of a page.
@@ -166,7 +166,7 @@ Vedeți informația logată asociată cu o pagină web și folosiți Consola Web
 
 
 ;Learn more about Web Console
-Aflati mai multe despre Consola Web
+Aflati mai multe despre consola Web
 
 
 ;JavaScript Debugger
@@ -182,7 +182,7 @@ Aflați mai multe despre Depanatorul JavaScript
 
 
 ;Network Monitor
-Monitor de Rețea
+Monitor de rețea
 
 
 ;See all the network requests your browser makes, how long each request takes and details of each request.
@@ -190,11 +190,11 @@ Vedeți toate request-urile pe care le face navigatorul, durata fiecăruia și d
 
 
 ;Learn more about Network Monitor
-Aflați mai multe despre Monitor de Rețea
+Aflați mai multe despre monitorul de rețea
 
 
 ;Style Editor
-Editor de Stil
+Editor de stil
 
 
 ;View and edit CSS styles associated with a Web page, create new ones and apply existing CSS stylesheets to any page.
@@ -202,7 +202,7 @@ Vedeți și editați stilurile CSS asociate unei pagini web, creați altele noi 
 
 
 ;Learn more about Style Editor
-Aflați mai multe despre Editorul de Stiluri
+Aflați mai multe despre editorul de stiluri
 
 
 ;Choose Firefox
@@ -217,7 +217,7 @@ Bine ați venit la Firefox Developer Edition
 
 # UI Tour: don't add HTML tags in this string
 ;Developer Tools
-Unelte de Dezvoltare
+Unelte de dezvoltare
 
 
 # UI Tour: don't add HTML tags in this string
@@ -304,7 +304,7 @@ Aflați funcționalitățile care fac din acesta cel mai complet navigator pentr
 
 
 ;Important: Sync your new profile
-Important: Sincronizați noul profil
+Important: sincronizați noul profil
 
 
 ;Developer Edition comes with a new profile so you can run it alongside other versions of Firefox.
@@ -312,7 +312,7 @@ Developer Edition vina la pachet cu un nou profil pe care îl puteți rula laola
 
 
 ;To access your bookmarks, browsing history and more, you need to sync the profile with your existing Firefox Account, or create a new one.
-Pentru a accesa semnele de carte, istoria de navigare și altele trebuie să vă sincronizati profilul cu un Cont Firefox existent sau să creați un nou cont.
+Pentru a accesa semnele de carte, istoria de navigare și altele trebuie să vă sincronizati profilul cu un cont Firefox existent sau să vă creați un nou cont.
 
 
 ;Want the old look back?
@@ -320,7 +320,7 @@ Doriți vechiul aspect înapoi?
 
 
 ;If you want the familiar look and feel of Firefox Aurora back, we’ve made it super easy for you.
-Dacă doriți vechiul aspect al Firefox Aurora înapoi, am făcut acest lucru foarte ușor pentru dumneavoastra.
+Dacă doriți vechiul aspect Firefox Aurora înapoi am făcut acest lucru foarte ușor pentru dumneavoastra.
 
 
 ;Features and tools
