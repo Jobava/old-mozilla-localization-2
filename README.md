@@ -72,3 +72,12 @@ The application can be controlled with an .ini file.
 [Pontoon locales.ini](http://svn.mozilla.org/projects/l10n-misc/trunk/pontoon/ini/locales.ini)
 [Snippets](http://svn.mozilla.org/projects/l10n-misc/trunk/snippets/ro/)
 [Sumo Test](http://svn.mozilla.org/projects/l10n-misc/trunk/sumo-test/ro/)
+
+### Other resources
+* https://rospell.wordpress.com/
+
+[Mozilla release schedule](https://www.google.com/calendar/embed?src=bW96aWxsYS5jb21fZGJxODRhbnI5aTh0Y25taGFiYXRzdHY1Y29AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+
+[L10n blog](https://blog.mozilla.org/l10n/)
+
+[Twitter](https://twitter.com/mozilla_l10n)
