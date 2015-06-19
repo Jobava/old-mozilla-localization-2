@@ -12,6 +12,22 @@
 * Are there any specific details that are missing from the doc? If so, please identify those details.
 * Please rate what you have read on a scale of 1-5 (1=best doc I've ever read; 5=big pile of uselessness) and explain the reason for your rating.
 
+### Locale Inspector
+
+There is a command line tool to check locales. The following items can be verified:
+* byte order mark (BOM)
+* entities
+* placeholders (%S, #1, $var$ ...)
+* access keys
+* keybindings
+
+The application also allows merging a locale into the en-US one. So, a valid translation can be created in seconds. See the "merge" line in the .ini file.
+
+Download the application here: http://downloads.mozdev.org/br/locale-inspector.zip
+
+This is a .NET application, therefore the Microsoft .NET Framework 1.1 or Mono is required in order to run it.
+
+The application can be controlled with an .ini file.
 
 ### Trunk repos without Romanian localization:
 [Add-Ons](http://svn.mozilla.org/projects/l10n-misc/trunk/add-ons/)
